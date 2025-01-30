@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me mgjk88.1@gmail.com
+- 📫 How to reach me mgjk88@gmail.com
 - ⚡ Fun fact: I love gardening
 
 <!---
