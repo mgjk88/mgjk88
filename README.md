@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgjk88
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me mgjk88@gmail.com
 - ⚡ Fun fact: I love gardening
